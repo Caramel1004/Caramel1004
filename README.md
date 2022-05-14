@@ -26,3 +26,11 @@ const techStack = {
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
+
+```java
+public class test{
+  public static void main(String[] args) {
+    System.out.println("Hello World!!");
+  }
+}
+```
