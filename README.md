@@ -14,15 +14,13 @@
 
 ```javascript
 const techStack = {
-  pronouns: "he" | "his",
-  code: [Javascript, HTML, CSS, Java, python],
-  tools: [SpringBoot, React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  nickName: caramel1004,
+  languge: [Javascript, Html, Css, Java],
+  frameWork: [Spring, SpringBoot, Node.js],
   techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
+                        slack: "ZeroCho"
                       },
+  study: 'udemy',
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
