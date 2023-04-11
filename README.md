@@ -16,7 +16,7 @@
 const techStack = {
   nickName: caramel1004,
   languge: [Javascript, Html, Css, Java],
-  frameWork: [Spring, SpringBoot, Node.js],
+  frameWork: [Spring, SpringBoot, Nodejs],
   techCommunities: {
                         slack: "ZeroCho"
                       },
