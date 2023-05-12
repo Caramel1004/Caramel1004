@@ -15,6 +15,7 @@
 ![Express](https://img.shields.io/badge/express-43853d?style=for-the-badge&logo=express&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 ![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+![MacOs](https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=white)
 
 <br/>
 
