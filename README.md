@@ -8,7 +8,7 @@
 ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
 ![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
-![Java](https://img.shields.io/badge/-Java-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-46a2f1?style=for-the-badge&logo=java&logoColor=red)
 
 <br/>
 
