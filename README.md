@@ -25,6 +25,6 @@ const techStack = {
                         slack: "ZeroCho"
                       },
   study: 'udemy',
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "I am doing the #100DaysOfCode challenge focused on Nodejs and JavaScript!!"
 }
 ```
