@@ -35,13 +35,19 @@
 
 ```javascript
 const techStack = {
-  nickName: caramel1004,
-  languge: [Javascript, Html, Css, Java],
-  frameWork: [Spring, SpringBoot, Nodejs],
-  techCommunities: {
-      slack: "ZeroCho"
-  },
-  study: 'udemy',
- challenge: "I am doing the #100DaysOfCode challenge focused on Nodejs and JavaScript!!"
+    name: 'WooYeong Byun',
+    language: ['JS', 'HTML', 'CSS', 'Java'],
+    frameWork: ['Nodejs', 'Spring', 'SpringBoot'],
+    DB: ['mongoDB', 'MySQL'],
+    tool: ['VScode', 'eclipse', 'STS4', github],
+    techCommunities: {
+        slack: 'ZeroCho',
+        wanted: '백엔드 온보딩 챌린지'
+    },
+    study: {
+        offline: ['미래IT캠퍼스'],
+        online: ['udemy']
+  }
+    challenge: '커밋 일상화하기, 효율적인 로직 구조 고민', '막히는 기술이나 코드는 API 서칭하도록 습관화 하기'
 }
 ```
