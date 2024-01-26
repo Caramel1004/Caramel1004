@@ -7,7 +7,7 @@
 >     - 2024-01-29 ~ 2024-02-05
 
 > - 과제테스트 회고 정리
-> - somat 코드 리팩토링
+> - somat플랫폼 코드 리팩토링
 > - springboot 스터디 및 새 프로젝트 계획
 <div align="center">
     <h2> 🚀 My tech stack </h2>
