@@ -1,9 +1,14 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCaramel1004&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-#### 현재 활동
+#### 현재 활동 및 계획
 > - 회사: 모인(MOIN) 과제 테스트
 >     - 2024-01-22 ~ 2024-01-28
+
 > - 회사: 삼쩜삼(3.3) 과제 테스트
 >     - 2024-01-29 ~ 2024-02-05
+
+> 과제테스트 회고 정리
+> somat 코드 리팩토링
+> springboot 스터디 및 새 프로젝트 계획
 <div align="center">
     <h2> 🚀 My tech stack </h2>
 
