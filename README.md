@@ -55,7 +55,7 @@ const techStack = {
     language: ['JS', 'HTML', 'CSS', 'Java'],
     frameWork: ['Nodejs', 'Spring', 'SpringBoot'],
     DB: ['mongoDB', 'MySQL'],
-    tool: ['VScode', 'eclipse', 'STS4', 'github'],
+    tool: ['VScode', 'intellij', 'eclipse', 'STS4', 'github'],
     techCommunities: {
         slack: 'ZeroCho',
         wanted: '백엔드 온보딩 챌린지'
@@ -63,7 +63,10 @@ const techStack = {
     study: {
         offline: ['미래IT캠퍼스'],
         online: ['udemy']
-  }
+    }
+    book: [
+        '헤드 퍼스트 디자인 패턴', '자바의 정석', 'Nodejs 교과서'
+    ]
     challenge: '커밋 일상화하기, 효율적인 로직 구조 고민', '막히는 기술이나 코드는 API 서칭하도록 습관화 하기'
 }
 ```
