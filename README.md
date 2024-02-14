@@ -42,8 +42,9 @@
 </div>
 <div align="center">
 
-## 🏅 Solved.ac Tier,  Github
+## 🏅 Solved.ac Tier,  Github, language
 <a href="https://github.com/Caramel1004"></a>
+![Caramel1004's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caramel1004&private=true)<br>
 ![Caramel1004's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caramel1004&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tangent45)](https://solved.ac/tangent45)
 </div>
