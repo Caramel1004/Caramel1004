@@ -2,7 +2,8 @@
 
 <div align="center">
     <h2> 🚀 My tech stack </h2>
-
+    
+![Caramel1004's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caramel1004&private=true)<br>
 #### BackEnd
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=white)<br>
 ![Expressjs](https://img.shields.io/badge/expressjs-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -33,9 +34,8 @@
 </div>
 <div align="center">
 
-## 🏅 Solved.ac Tier,  Github, language
+## 🏅 Solved.ac Tier,  Github
 <a href="https://github.com/Caramel1004"></a>
-![Caramel1004's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caramel1004&private=true)<br>
 ![Caramel1004's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caramel1004&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tangent45)](https://solved.ac/tangent45)
 </div>
