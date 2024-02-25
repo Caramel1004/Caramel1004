@@ -1,7 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCaramel1004&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=변우영%20%20백엔드%20연구소&textBg=false)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=BE%20%20DEV&textBg=false)
 <div align="center">
-    <h4> 🚀 Tech Stack 🚀 </h4>
+    <h3> 🚀 Tech Stack 🚀 </h3>
     
 ![Caramel1004's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caramel1004&private=true&card_width=500px)<br>
 #### BackEnd
@@ -37,31 +37,8 @@
 </div>
 <div align="center">
 
-## 🏅 Solved.ac Tier,  Github
+### 🏅 Solved.ac Tier,  Github
 <a href="https://github.com/Caramel1004"></a>
-![Caramel1004's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caramel1004&show_icons=true&theme=radical)
+![Caramel1004's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caramel1004&show_icons=true&theme=radical&card_=500px)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tangent45)](https://solved.ac/tangent45)
 </div>
-
-
-```javascript
-const techStack = {
-    name: 'WooYeong Byun',
-    language: ['JS', 'HTML', 'CSS', 'Java'],
-    frameWork: ['Nodejs', 'Spring', 'SpringBoot'],
-    DB: ['mongoDB', 'MySQL'],
-    tool: ['VScode', 'intellij', 'eclipse', 'STS4', 'github'],
-    techCommunities: {
-        slack: 'ZeroCho',
-        wanted: '백엔드 온보딩 챌린지'
-    },
-    study: {
-        offline: ['미래IT캠퍼스'],
-        online: ['udemy']
-    }
-    book: [
-        '헤드 퍼스트 디자인 패턴', '자바의 정석', 'Nodejs 교과서'
-    ]
-    challenge: '커밋 일상화하기, 효율적인 로직 구조 고민', '막히는 기술이나 코드는 API 서칭하도록 습관화 하기'
-}
-```
