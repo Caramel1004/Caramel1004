@@ -1,9 +1,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCaramel1004&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=변우영%20%20백엔드%20연구소&textBg=false)
 <div align="center">
-    <h2> 🚀 My tech stack </h2>
+    <h4> 🚀 Tech Stack 🚀 </h4>
     
-![Caramel1004's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caramel1004&private=true)<br>
+![Caramel1004's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caramel1004&private=true&card_width=300px)<br>
 #### BackEnd
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=white)<br>
 ![Expressjs](https://img.shields.io/badge/expressjs-000000?style=for-the-badge&logo=express&logoColor=white)
