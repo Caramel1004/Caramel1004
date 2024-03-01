@@ -1,7 +1,17 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCaramel1004&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=return%20new%20String[]{"woo",%20"yeong",%20"byun"};&textBg=white&animation=fadeIn&fontSize=35)
-<div align="center">
-    <h3> 🚀 Tech Stack 🚀 </h3>
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=return%20new%20String[]{"woo",%20"yeong",%20"byun"};&textBg=000000&animation=fadeIn&fontSize=35)
+
+### 🧸 토이프로젝트
+- #### *somat*
+    - <a herf="https://github.com/Caramel1004/soulmate-nodejs-backend">git repository</a>
+    - <a herf="https://caramel1004.notion.site/SOULMATE-90ce4f5f3b314d809f400aeee832ca2a?pvs=74">기술 문서</a>
+### 📚 기업 과제 테스트
+- #### 모인(moin)
+    - <a herf="https://github.com/Caramel1004/moin-task-test-springboot">git repository</a>
+- #### 삼쩜삼(3.3)
+    - <a herf="https://github.com/Caramel1004/szs-task-test-springboot">git repository</a>
+<div align="left">
+    <h3> 🚀 Tech Stack </h3>
     
 ![Caramel1004's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caramel1004&private=true&card_width=500px)<br>
 #### BackEnd
