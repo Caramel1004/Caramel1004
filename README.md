@@ -7,10 +7,10 @@
 >    - [git repository](https://github.com/Caramel1004/soulmate-nodejs-backend)
 >    - [프로젝트 기술 문서](https://caramel1004.notion.site/SOULMATE-90ce4f5f3b314d809f400aeee832ca2a?pvs=74)
 ### 📚 기업 과제 테스트
-- #### 삼쩜삼(3.3)
+- #### *삼쩜삼(3.3)*
 >- ##### 2024.01.29 ~ 2024.02.05
 >    - [git repository](https://github.com/Caramel1004/szs-task-test-springboot)
-- #### 모인(moin)
+- #### *모인(moin)*
 >- ##### 2024.01.22 ~ 2024.01.29
 >    - [git repository](https://github.com/Caramel1004/moin-task-test-springboot)
 
