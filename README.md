@@ -3,13 +3,13 @@
 
 ### 🧸 토이프로젝트
 - #### *somat*
-    - <a herf="https://github.com/Caramel1004/soulmate-nodejs-backend">git repository</a>
-    - <a herf="https://caramel1004.notion.site/SOULMATE-90ce4f5f3b314d809f400aeee832ca2a?pvs=74">기술 문서</a>
+    - [git repository](https://github.com/Caramel1004/soulmate-nodejs-backend)
+    - [프로젝트 기술 문서](https://caramel1004.notion.site/SOULMATE-90ce4f5f3b314d809f400aeee832ca2a?pvs=74)
 ### 📚 기업 과제 테스트
 - #### 모인(moin)
-    - <a herf="https://github.com/Caramel1004/moin-task-test-springboot">git repository</a>
+    - [git repository](https://github.com/Caramel1004/moin-task-test-springboot)
 - #### 삼쩜삼(3.3)
-    - <a herf="https://github.com/Caramel1004/szs-task-test-springboot">git repository</a>
+    - [git repository](https://github.com/Caramel1004/szs-task-test-springboot)
 <div align="left">
     <h3> 🚀 Tech Stack </h3>
     
