@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=return%20new%20String[]{"woo",%20"yeong",%20"byun"};&textBg=ffffff&animation=fadeIn&fontSize=35)
 
 ### 🧸 토이프로젝트
-- #### *somat*
+- #### *somat***
 >- ##### 2023.05 ~ 2024.01  ver.1.0.0
 >    - [git repository](https://github.com/Caramel1004/soulmate-nodejs-backend)
 >    - [프로젝트 기술 문서](https://caramel1004.notion.site/SOULMATE-90ce4f5f3b314d809f400aeee832ca2a?pvs=74)
