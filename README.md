@@ -4,15 +4,17 @@
 ### 🧸 토이프로젝트
 - #### *somat*
 >- ##### 2023.05 ~ 2024.01  ver.1.0.0
->    - [git repository](https://github.com/Caramel1004/soulmate-nodejs-backend)
+>    - [Git Repository](https://github.com/Caramel1004/soulmate-nodejs-backend)
 >    - [프로젝트 기술 문서](https://caramel1004.notion.site/SOULMATE-90ce4f5f3b314d809f400aeee832ca2a?pvs=74)
 ### 📚 기업 과제 테스트
 - #### *삼쩜삼(3.3)*
 >- ##### 2024.01.29 ~ 2024.02.05
->    - [git repository](https://github.com/Caramel1004/szs-task-test-springboot)
+>    - [Git Repository](https://github.com/Caramel1004/szs-task-test-springboot)
 - #### *모인(moin)*
->- ##### 2024.01.22 ~ 2024.01.29
->    - [git repository](https://github.com/Caramel1004/moin-task-test-springboot)
+>- ##### 테스트 기간: 2024.01.22 ~ 2024.01.29
+>- ##### 코드 리팩토링 및 테스트 코드 추가: 2024.04 ~ 2024.05
+>    - [Git Repository](https://github.com/Caramel1004/moin-task-test-springboot)
+>    - [Test Code](https://github.com/Caramel1004/moin-task-test-springboot/tree/main/src/test/java/com/moin/remittance)
 
 <br>
 <div align="left">
