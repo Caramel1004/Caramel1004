@@ -14,7 +14,11 @@
 >- ##### 테스트 기간: 2024.01.22 ~ 2024.01.29
 >- ##### 코드 리팩토링 및 테스트 코드 추가: 2024.04 ~ 2024.05
 >    - [Git Repository](https://github.com/Caramel1004/moin-task-test-springboot)
->    - [Test Code](https://github.com/Caramel1004/moin-task-test-springboot/tree/main/src/test/java/com/moin/remittance)
+>    - [테스트 코드 상위 폴더로 이동](https://github.com/Caramel1004/moin-task-test-springboot/tree/main/src/test/java/com/moin/remittance)
+>    - [TEST CODE: application layer](https://github.com/Caramel1004/moin-task-test-springboot/blob/main/src/test/java/com/moin/remittance/application/transfer/RemittanceServiceV2ImplTest.java)
+>    - [TEST CODE: controller layer](https://github.com/Caramel1004/moin-task-test-springboot/blob/main/src/test/java/com/moin/remittance/presentation/v2/RemittanceControllerV2Test.java)
+>    - [TEST CODE: repository layer](https://github.com/Caramel1004/moin-task-test-springboot/tree/main/src/test/java/com/moin/remittance/repository/v2)
+>    - [TEST CODE: core test](https://github.com/Caramel1004/moin-task-test-springboot/tree/main/src/test/java/com/moin/remittance/core)
 
 <br>
 <div align="left">
