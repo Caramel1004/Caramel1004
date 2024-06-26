@@ -1,6 +1,11 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCaramel1004&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=return%20List.%20of("woo",%20"yeong",%20"byun");&textBg=ffffff&animation=fadeIn&fontSize=35)
 
+### ⚙️ 외부 개발 투입(기업: 보윙) 
+- #### 배민과 연동될 리워드 플랫폼 개발
+>- ##### 2024.06.24 ~ 2024.07.12
+>     - 포지션: BE dev
+
 ### 🧸 토이프로젝트
 - #### *somat*
 >- ##### 2023.05 ~ 2024.01  ver.1.0.0
