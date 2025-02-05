@@ -1,30 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCaramel1004&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=return%20List.%20of("woo",%20"yeong",%20"byun");&textBg=ffffff&animation=fadeIn&fontSize=35)
 
-### ⚙️ 외부 개발 투입
-- #### 배민과 연동될 리워드 플랫폼 개발
->- ##### 2024.06.24 ~ 2024.07.12
->     - 포지션: BE dev
-
-### 🧸 토이프로젝트
-- #### *somat*
->- ##### 2023.05 ~ 2024.01  ver.1.0.0
->    - [Git Repository](https://github.com/Caramel1004/soulmate-nodejs-backend)
->    - [프로젝트 기술 문서](https://caramel1004.notion.site/SOULMATE-90ce4f5f3b314d809f400aeee832ca2a?pvs=74)
-### 📚 기업 과제 테스트
-- #### *삼쩜삼(3.3)*
->- ##### 2024.01.29 ~ 2024.02.05
->    - [Git Repository](https://github.com/Caramel1004/szs-task-test-springboot)
-- #### *모인(moin)*
->- ##### 테스트 기간: 2024.01.22 ~ 2024.01.29
->- ##### 코드 리팩토링 및 테스트 코드 추가: 2024.04 ~ 2024.05
->    - [Git Repository](https://github.com/Caramel1004/moin-task-test-springboot)
->    - [테스트 코드 상위 폴더로 이동](https://github.com/Caramel1004/moin-task-test-springboot/tree/main/src/test/java/com/moin/remittance)
->    - [TEST CODE: application layer](https://github.com/Caramel1004/moin-task-test-springboot/blob/main/src/test/java/com/moin/remittance/application/transfer/RemittanceServiceV2ImplTest.java)
->    - [TEST CODE: controller layer](https://github.com/Caramel1004/moin-task-test-springboot/blob/main/src/test/java/com/moin/remittance/presentation/v2/RemittanceControllerV2Test.java)
->    - [TEST CODE: repository layer](https://github.com/Caramel1004/moin-task-test-springboot/tree/main/src/test/java/com/moin/remittance/repository/v2)
->    - [TEST CODE: core test](https://github.com/Caramel1004/moin-task-test-springboot/tree/main/src/test/java/com/moin/remittance/core)
-
 <br>
 <div align="left">
     <h3> 🚀 Tech Stack </h3>
