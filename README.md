@@ -1,7 +1,16 @@
-<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCaramel1004&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
+<div>
+    <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Caramel1004&utm_content=farm">
+        <img
+          src="https://render.gitanimals.org/farms/Caramel1004?pet_id=3"
+          width="600"
+          height="300"
+        />
+    </a>
+<div>
+<br>
+    
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=return%20List.%20of("woo",%20"yeong",%20"byun");&textBg=ffffff&animation=fadeIn&fontSize=35)
 
-<br>
 <div align="left">
     <h3> 🚀 Tech Stack </h3>
     
