@@ -1,4 +1,4 @@
-<img src="https://github.com/Caramel1004/Caramel1004/blob/main/banner.gif" /><br><br>
+<img src="https://github.com/Caramel1004/Caramel1004/blob/main/dot.gif" /><br><br>
 
 <!-- <div align="center">
   <h4 align="center">🛠️</h4>
