@@ -42,7 +42,7 @@
 </br>
 
 #### SOLVE
-| <a href="https://solved.ac/profile/tangent45"><img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tangent45" alt="Baekjoon Profile" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caramel1004&repo=baekjoon-programmers-algorithm&theme=buefy&hiden_border=true" /></a> |
+| <a href="https://solved.ac/profile/tangent45"><img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tangent45" alt="Baekjoon Profile" /></a> | <a href="https://github.com/Caramel1004/baekjoon-programmers-algorithm"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caramel1004&repo=baekjoon-programmers-algorithm&theme=buefy&hiden_border=true" /></a> |
 | -- | -- |
 </br>
 
