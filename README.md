@@ -3,11 +3,12 @@
 <div align="center">
   <h4 align="center">🛠️</h4>
   <h4 align="center">STACK</h4>
+  
   <img
     src="https://render.gitanimals.org/farms/Caramel1004?pet_id=6"
     alt="GitAnimals Farm"
-    width="100%"
-    height="150"
+    width="600"
+    height="200"
     style="border-radius:16px;"
   />
   <p align="center">
@@ -29,7 +30,7 @@
 
 ---
 
-### [BaekJooon and Programmers](https://github.com/Caramel1004/baekjoon-programmers-algorithm)
+### [백준 프로그래머스 레포지토리](https://github.com/Caramel1004/baekjoon-programmers-algorithm)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tangent45)](https://solved.ac/tangent45)<br>
 
 ---
