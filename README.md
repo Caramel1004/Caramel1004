@@ -31,11 +31,11 @@
 #### 🛠️ STACK
 | <div align="center" style="display: inline-block;"><p align="center"><img src="https://render.gitanimals.org/lines/Caramel1004?pet-id=764406396225917549" width="300" height="150" style="display:inline-block; margin:4px;" /><img src="https://render.gitanimals.org/lines/Caramel1004?pet-id=755359812364903478" width="300" height="150" style="display:inline-block; margin:4px;" /><img src="https://render.gitanimals.org/lines/Caramel1004?pet-id=765161865655694515" width="300" height="150" style="display:inline-block; margin:4px;" /><img src="https://render.gitanimals.org/lines/Caramel1004?pet-id=764408764027972391" width="300" height="150" style="display:inline-block; margin:4px;" /><img src="https://render.gitanimals.org/lines/Caramel1004?pet-id=765389018829764110" width="300" height="150" style="display:inline-block; margin:4px;" /></p></div> |
 |:--:|
-| <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=git,github,idea,vscode&theme=light" width="20%" alt="Development Tools" /></a> |
-| <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongo&theme=light" width="25%" alt="Database Stack" /></a> |
-| <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=gradle,maven,npm&theme=light" width="30%" alt="Build Tools" /></a> |
-| <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=spring,nodejs,expressjs&theme=light" width="35%" alt="Backend Frameworks" /></a> |
-| <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=java,kotlin,js,ts&theme=light" width="40%" alt="Programming Languages" /></a> |
+| <div><img src="https://skillicons.dev/icons?i=git,github,idea,vscode&theme=light" width="20%" alt="Development Tools" /></div> |
+| <div><img src="https://skillicons.dev/icons?i=mysql,postgres,mongo&theme=light" width="25%" alt="Database Stack" /></div> |
+| <div><img src="https://skillicons.dev/icons?i=gradle,maven,npm&theme=light" width="30%" alt="Build Tools" /></div> |
+| <div><img src="https://skillicons.dev/icons?i=spring,nodejs,expressjs&theme=light" width="35%" alt="Backend Frameworks" /></div> |
+| <div><img src="https://skillicons.dev/icons?i=java,kotlin,js,ts&theme=light" width="40%" alt="Programming Languages" /></div> |
 
 
 </br>
