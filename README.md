@@ -7,7 +7,7 @@
   <img
     src="https://render.gitanimals.org/farms/Caramel1004?pet_id=6"
     alt="GitAnimals Farm"
-    width="600"
+    width="1000"
     height="200"
     style="border-radius:16px;"
   />
