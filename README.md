@@ -7,7 +7,7 @@
   <img
     src="https://render.gitanimals.org/farms/Caramel1004?pet_id=6"
     alt="GitAnimals Farm"
-    width="1000"
+    width="600"
     height="200"
     style="border-radius:16px;"
   />
@@ -29,7 +29,7 @@
 </div> -->
 
 #### 🛠️ STACK
-| <div align="center" style="display: inline-block;"><p align="center"><img src="https://render.gitanimals.org/lines/Caramel1004?pet-id=764406396225917549" width="300" height="150" style="display:inline-block; margin:4px;" /><img src="https://render.gitanimals.org/lines/Caramel1004?pet-id=755359812364903478" width="300" height="150" style="display:inline-block; margin:4px;" /><img src="https://render.gitanimals.org/lines/Caramel1004?pet-id=765161865655694515" width="300" height="150" style="display:inline-block; margin:4px;" /><img src="https://render.gitanimals.org/lines/Caramel1004?pet-id=764408764027972391" width="300" height="150" style="display:inline-block; margin:4px;" /><img src="https://render.gitanimals.org/lines/Caramel1004?pet-id=765389018829764110" width="300" height="150" style="display:inline-block; margin:4px;" /></p></div> |
+| <div align="center" style="display: inline-block;"><p align="center"><img src="https://render.gitanimals.org/lines/Caramel1004?pet-id=764406396225917549" width="1000" height="150" style="display:inline-block; margin:4px;" /><img src="https://render.gitanimals.org/lines/Caramel1004?pet-id=755359812364903478" width="1000" height="150" style="display:inline-block; margin:4px;" /><img src="https://render.gitanimals.org/lines/Caramel1004?pet-id=765161865655694515" width="1000" height="150" style="display:inline-block; margin:4px;" /><img src="https://render.gitanimals.org/lines/Caramel1004?pet-id=764408764027972391" width="1000" height="150" style="display:inline-block; margin:4px;" /><img src="https://render.gitanimals.org/lines/Caramel1004?pet-id=765389018829764110" width="1000" height="150" style="display:inline-block; margin:4px;" /></p></div> |
 |:--:|
 | <div><img src="https://skillicons.dev/icons?i=git,github,idea,vscode&theme=light" width="20%" alt="Development Tools" /></div> |
 | <div><img src="https://skillicons.dev/icons?i=mysql,postgres,mongo&theme=light" width="25%" alt="Database Stack" /></div> |
